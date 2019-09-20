@@ -8,7 +8,7 @@
 
 ![Lesson 2](/static/china-tutorials/agentdig.gif)
 
-# Welcome to Moon Base OMG2 OMG2 OMG2
+# Welcome to Moon Base
 
 **Unit 3. Lesson 2** - Mineral Samples!
 
@@ -16,7 +16,7 @@
 
 ### Step 1
 
-**Activity 1 - Agent Dig 1**: Select the OMG OMG ``||user:on chat command||`` block and rename it to **dig1**.
+**Activity 1 - Agent Dig 1**: G ``||user:on chat command||`` block and rename it to **dig1**.
 
 #### ~ tutorialhint 
 
