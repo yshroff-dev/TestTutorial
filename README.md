@@ -8,7 +8,7 @@
 
 ![Lesson 2](/static/china-tutorials/agentdig.gif)
 
-# Welcome to Moon Base OMG OMG OMG
+# Welcome to Moon Base OMG2 OMG2 OMG2
 
 **Unit 3. Lesson 2** - Mineral Samples!
 
